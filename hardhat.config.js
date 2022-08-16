@@ -8,8 +8,8 @@ module.exports = {
   },
   networks: {
     rinkeby: {
-      url: "https://eth-rinkeby.alchemyapi.io/v2/cv6DlK1tKoqoNNpbJzilbxdoK5FUPKgn",
-      accounts: ['683178485355730281da2bb23d1ba833c1ca089171340164a838f931e9041b46'],
+      url: "https://eth-rinkeby.alchemyapi.io/v2/##################################",
+      accounts: ['##############################################################'],
      
     },
   },
